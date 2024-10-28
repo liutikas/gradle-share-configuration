@@ -6,7 +6,6 @@ plugins {
     id("mySettingsPlugin")
 }
 
-includeBuild("build-logic")
 include("library1")
 include("library2")
 
